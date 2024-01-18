@@ -72,8 +72,16 @@ ul, ol {
 .button-hero {
     color: #FFF;
     background-color: #4D5AE5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
+.button-hero:hover,
+.button-hero:focus {
+   background-color: #404BBF; 
+}
 /*===============section list advantages================*/
 
 .title-second {
@@ -91,7 +99,7 @@ ul, ol {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.2;
+    line-height: 1.11;
     letter-spacing: 0.02em;
 }
 
@@ -129,7 +137,6 @@ ul, ol {
     background-color: lightgray -1px 0px / 101.111% 100% no-repeat;
 }
 
-.list-portfolio-title {}
 
 /*==================footer==================*/
 
@@ -147,7 +154,7 @@ ul, ol {
     text-transform: uppercase;
 }
 
-.footer-logo span {
+.footer-logo-part {
     color: #F4F4FD;
 }
 
