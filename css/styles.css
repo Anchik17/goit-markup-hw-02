@@ -75,13 +75,14 @@ ul, ol {
     font-weight: 500;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    cursor: pointer;
 }
 
 .button-hero:hover,
 .button-hero:focus {
-   background-color: #404BBF; 
+    background-color: #404BBF;
+    cursor: pointer;
 }
+
 /*===============section list advantages================*/
 
 .title-second {
