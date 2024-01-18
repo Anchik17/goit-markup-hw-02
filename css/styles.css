@@ -84,6 +84,9 @@ ul, ol {
 }
 
 /*===============section list advantages================*/
+.section-list .title-second {
+    line-height: 1.2;
+}
 
 .title-second {
     color: #2E2F42;
@@ -91,7 +94,7 @@ ul, ol {
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-transform: capitalize;
 }
@@ -100,7 +103,7 @@ ul, ol {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1.11;
+    line-height: 1.2;
     letter-spacing: 0.02em;
 }
 
@@ -115,6 +118,9 @@ ul, ol {
 
 /*===================section team==================*/
 
+.section-team .title-second {
+    line-height: 1.11;
+}
 
 .section-team {
     background-color: #F4F4FD;
