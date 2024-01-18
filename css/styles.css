@@ -17,8 +17,8 @@ ul, ol {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1,17;
-    letter-spacing: 0,03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -30,8 +30,8 @@ ul, ol {
     color: #2E2F42;
     font-size: 16px;;
     font-weight: 500;
-    line-height: 1,5;
-    letter-spacing: 0,02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 .nav-link:hover,
@@ -46,7 +46,7 @@ ul, ol {
     color: #434455;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1,5;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
@@ -65,15 +65,13 @@ ul, ol {
     text-align: center;
     font-size: 56px;
     font-weight: 700;
-    line-height: 1,07;
-    letter-spacing: 0,02em;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 .button-hero {
     color: #FFF;
-    border-radius: 4px;
     background-color: #4D5AE5;
-    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15);
 }
 
 /*===============section list advantages================*/
@@ -84,8 +82,8 @@ ul, ol {
     font-family: Roboto;
     font-size: 36px;
     font-weight: 700;
-    line-height: 1,1;
-    letter-spacing: 0,02em;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
     text-transform: capitalize;
 }
 
@@ -93,8 +91,8 @@ ul, ol {
     color: #2E2F42;
     font-size: 20px;
     font-weight: 500;
-    line-height: 1,2;
-    letter-spacing: 0,02em;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
 }
 
 .list-text {
@@ -102,8 +100,8 @@ ul, ol {
     font-family: Roboto;
     font-size: 16px;
     font-weight: 400;
-    line-height: 0,02em;
-    letter-spacing: 0.32px;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 
 /*===================section team==================*/
@@ -115,12 +113,9 @@ ul, ol {
 
 
 .list-team-items {
-    border-radius: 0px 0px 4px 4px;
     background: #FFF;
-    box-shadow: 0px 2px 1px 0px rgba(46, 47, 66, 0.08), 0px 1px 1px 0px rgba(46, 47, 66, 0.16), 0px 1px 6px 0px rgba(46, 47, 66, 0.08);
 }
 
-.list-team-image {}
 
 
 /*=====================section-portfolio==================*/
@@ -147,8 +142,8 @@ ul, ol {
     font-family: Raleway, sans-serif;
     font-size: 18px;
     font-weight: 700;
-    line-height: 1, 17;
-    letter-spacing: -0, 03em;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
 }
 
@@ -161,6 +156,6 @@ ul, ol {
     color:#F4F4FD;
     font-size: 16px;
     font-weight: 400;
-    line-height: 1,5;
-    letter-spacing: -0,02em;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
